@@ -51,5 +51,5 @@ Modpack Installer is a Java-based application designed to simplify the process o
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/modpack-installer.git
+git clone https://github.com/ZeroG-Network/ServerInstallerZeroG.git
 cd modpack-installer
